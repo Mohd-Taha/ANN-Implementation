@@ -106,7 +106,7 @@ def calculateOutput(i, ix_1, ix_2, ix_3, iw_14, iw_15, iw_24, iw_25, iw_34, iw_3
 
 
 if __name__ == "__main__":
-    pathToFile = input("Paste Path to File (with double backslash and file name)\t:")
+    pathToFile = input("Paste Path to File (with double backslash and file name) : ")
     dataSet = dataReading(pathToFile)
     w_14 = random.uniform(-1.0, 1.0)
     w_15 = random.uniform(-1.0, 1.0)
