@@ -1,4 +1,4 @@
-Implementation of Artificial Neural Network
+# Implementation of Artificial Neural Network
 
 Approach Used:      
     Independent learning using threshold error = 0.0001 on each input and then using average of all again checking (if absolute error not less than threshold) then again learning independent....
